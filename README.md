@@ -6,15 +6,15 @@ Administrator access is required to collect log files.
 
 <h3 align="left">Tool Features:-</h3>
 
-  Collect Domain Firewall logs
+  Collect Domain Firewall logs.
   
-  Collect Private Firewall logs
+  Collect Private Firewall logs.
   
-  Collect Public Firewall logs
+  Collect Public Firewall logs.
   
-  Search and filter data within a table
+  Search and filter data within a table.
   
-  Copy log files with a single button
+  Copy log files with a single button.
   
-  Clear the table with a button
+  Clear the table with a button.
   
