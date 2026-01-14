@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
 <h3 align="center"> Wellcome to my "Windows-Defender-Local-Firewall-Logs-Reader"</h3>
+
+As a Defender engineer, you know how challenging it can be to read and interpret local Defender firewall logs.
+
+To address this, I have developed a tool that simplifies the process of analyzing firewall logs from both local and remote devices. The tool also converts the logs into a clear, user-friendly format for better understanding.
+
 <h3 align="left">Tool Pre-Requisites:-</h3>
 
 Administrator access is required to collect log files.
