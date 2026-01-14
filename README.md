@@ -18,4 +18,4 @@ Administrator access is required to collect log files.
   
   Clear the table with a button.
   
-![Uploading Defender Local Firewall Logs Reader.png…]()
+
