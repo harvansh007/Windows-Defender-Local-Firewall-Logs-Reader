@@ -7,7 +7,7 @@ Administrator access is required to collect log files.
 <h3 align="left">Tool Features:-</h3>
 
   Collect Domain Firewall logs.
-  
+
   Collect Private Firewall logs.
   
   Collect Public Firewall logs.
