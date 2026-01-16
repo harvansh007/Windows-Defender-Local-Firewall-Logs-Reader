@@ -15,9 +15,9 @@ Administrator access is required to collect log files.
 
 2. Collect Private Firewall logs.
 
--Collect Public Firewall logs.
+3. Collect Public Firewall logs.
 
--Search and filter data within a table.
+4. Search and filter data within a table.
 
 -Copy log files with a single button.
 
