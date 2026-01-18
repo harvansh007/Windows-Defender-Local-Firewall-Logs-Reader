@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
-<h3 align="center"> Wellcome to my "Windows-Defender-Local-Firewall-Logs-Reader"</h3>
+<h3 align="center"> Wellcome to my "Windows-Defender-Local-Firewall-Logs-Reader Tool"</h3>
 
 As a Defender engineer, you know how challenging it can be to read and interpret local Defender firewall logs.
 
