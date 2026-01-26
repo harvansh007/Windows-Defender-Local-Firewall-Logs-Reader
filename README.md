@@ -19,7 +19,7 @@ Administrator access is required to collect log files.
 
 4. Search and filter data within a table.
 
-5. Copy log files with a single button.
+5. Copy log files with a single button. 
 
 6. Clear the table with a button.
   
