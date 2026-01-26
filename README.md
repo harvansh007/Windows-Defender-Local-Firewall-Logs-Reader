@@ -13,7 +13,7 @@ Administrator access is required to collect log files.
 
 1. Collect Domain Firewall logs.
 
-2. Collect Private Firewall logs.
+2. Collect Private Firewall logs
 
 3. Collect Public Firewall logs.
 
